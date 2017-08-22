@@ -1,4 +1,4 @@
-# wifiloc perl based TZSP wifi tag locator in Perl with Perl Mojolicios web interface.
+# wifiloc perl based TZSP wifi tag locator in Perl with Perl Mojolicious web interface.
 
 # udps.pl 
 Collects TZSP over udp packets from wifi access points.  One wifi tag broadcast can be heard by a number of wifi access points.  The TZSP data has relative signal strength, transmission sequence number, remaining battery level...
